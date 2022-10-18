@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    cenariocinco.txt                                   :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: coder <marvin@42.fr>                       +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/08/28 23:30:22 by coder             #+#    #+#              #
+#    Updated: 2022/08/28 23:49:05 by coder            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Pergunta: Se a Pessoa B não trapaceou como ela poderia ter se explicado com calma?
+Resposta: Sei que é dificíl mas nesse caso ela poderia ter sido clara e comunicar seus sentimentos sobre aquele exercícios antes mesmo de começar a avaliação, expressando de uma forma bem clara que ela ainda está com dificuldades para desenvolver uma explicação mais objetiva sobre o código e pedindo para a pessoa A ter paciencia durante a avaliação.
+
+Pergunta: E como a Pessoa A poderia ter usado a empatia e a comunicação para entender a situação
+da Pessoa B, ela estava nervosa? Era a primeira avaliação dela?
+Resposta: Exatamente, observar não somente as palavras mas a expressão da pessoas, seu comportamento, suas atitudes durante a avaliação, pois essa as condições psicológicas podem nos travar em alguas situação. 
+
+Pergunta: Se a Pessoa B trapaceou, como ambas poderiam ter lidado com a marcação de trapaça
+de forma calma e compreensiva.
+Resposta: Nesse cenário a pessoa A teria que ter um olhar bastante empático mas ao mesmo tempo bem criterioso, explicando de forma bem educada o que irá acontecer a partir desse ponto. a pessoa B também terá que ter um olhar empático e criterioso pois foi ela mesma que se colocou nessa posição e colocou a pessoa A também, ela terá que assumir a responsabilidade pelo seu ato.  

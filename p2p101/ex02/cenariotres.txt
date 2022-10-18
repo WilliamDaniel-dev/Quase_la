@@ -1,0 +1,13 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    cenariotres.txt                                    :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: coder <marvin@42.fr>                       +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/08/28 23:21:35 by coder             #+#    #+#              #
+#    Updated: 2022/08/28 23:23:44 by coder            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Nesse cenário eu voltaria e conversaria com ela para entender o que aconteceu, claro, aplicando a comunicação não violenta, pois todos nós vamos cometer erros. 

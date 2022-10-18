@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    cenarioonze.txt                                    :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: coder <marvin@42.fr>                       +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/08/29 00:06:49 by coder             #+#    #+#              #
+#    Updated: 2022/08/29 00:08:03 by coder            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+A - Escreve um feedback construtivo para a avaliada, resumindo como correu o processo
+e destacando os pontos altos e pontos de melhoria. Afinal, você sabe que um feedback
+respeitoso e construtivo pode contribuir para uma melhoria contínua de todos, inclusive
+a si mesmo.

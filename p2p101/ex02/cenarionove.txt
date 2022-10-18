@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    cenarionove.txt                                    :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: coder <marvin@42.fr>                       +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/08/28 23:59:17 by coder             #+#    #+#              #
+#    Updated: 2022/08/29 00:00:58 by coder            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+A - Procura entender o que aconteceu e se solidariza com a situação da pessoa, porém
+segue firme na decisão de marcar o item como incorreto. Afinal, é de responsabilidade de
+cada Cadete organizar seu tempo de forma a cumprir seus prazos.

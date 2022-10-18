@@ -1,0 +1,13 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    cenarioum.txt                                      :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: coder <marvin@42.fr>                       +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/08/28 23:11:25 by coder             #+#    #+#              #
+#    Updated: 2022/08/28 23:15:34 by coder            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Aconteceu esse cenário comigo durante a piscina e irei tomar a mesma atitude que foi enviar uma mensagem para ele em todos os canais disponíveis perguntando se ele irá conseguir realizar a avaliação, como na piscina se eue estiver com tempo, irei aguardar no máximo 40 minutos depois do inicio do horário marcado, dependendo da resposta dele irei comunica-lo que terei que marcar como ausente e finalizar a avaliação.

@@ -1,0 +1,14 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    cnv.txt                                            :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: coder <marvin@42.fr>                       +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/08/28 22:46:47 by coder             #+#    #+#              #
+#    Updated: 2022/08/28 23:03:52 by coder            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Bom, com base no que estudei até aqui a comunicação não violenta deve ser utilizada para melhorarmos nossos relacionamentos pessoais e profissionais, fortalecer as nossas conexões humana, ela nos faz pensar antes de falar ou tomar alguma atitude que possa prejudicar outra pessoas e a nós mesmo, dentro do conceito do P2P acredito que se utlizada como proposta ela irá nos trazer bons resultados, não somente dentro da 42 mas resultados com nossas vidas pessoal também, colocando em prática os 4 conceitos básicos dela (Observação, Sentimento, Necessidade e Pedido), acredito que vamos ter muito mais facilidade para ajudar e pedir ajuda, pois quando colocados em prática facilitá muito nossa comunicaçõa e fará nos sentirmos mais a vontade com nosso par, até mesmo para resolvermos alguns conflitos que por certo irá aparecer ao decorrer do curso. 
+    

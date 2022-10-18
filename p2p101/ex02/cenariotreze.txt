@@ -1,0 +1,13 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    cenariotreze.txt                                   :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: coder <marvin@42.fr>                       +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/08/29 00:18:11 by coder             #+#    #+#              #
+#    Updated: 2022/08/30 01:55:49 by coder            ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+D - Caso você já saiba que não é possível fazer as avaliações em outro momento, seja por indisponibilidade das pessoas avaliadas ou por não saber quem elas são, melhor desmarcar do que fazer uma avaliação ruim somente para cumprir tabela.
